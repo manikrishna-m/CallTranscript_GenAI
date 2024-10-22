@@ -11,3 +11,7 @@ torch==2.0.1
 matplotlib==3.7.2
 seaborn==0.12.2
 wordcloud==1.9.2
+contractions
+plotly
+python-dotenv
+tqdm
